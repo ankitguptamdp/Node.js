@@ -1,0 +1,3 @@
+// mkdir npm-demo ; cd npm-demo ;sudo npm init --yes ; sudo npm i mongoose underscore ; sudo npm i -g npm-check-updates ; sudo npm i -g npm-check-updates ; sudo npm i jshint --save-dev
+// sudo npm i jshint --save-dev : Dependencies will be saved under 'devDependencies' it can be easily  handled as it will not affect the production environment.
+// JSHint is a static code analysis tool used in software development for checking if JavaScript source code complies with coding rules. JSHint was created in 2011 by Anton Kovalyov as a fork of the JSLint project. Anton and others felt JSLint was getting "too opinionated", and did not allow enough customization options.
