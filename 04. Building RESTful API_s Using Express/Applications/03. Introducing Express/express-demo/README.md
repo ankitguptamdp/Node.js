@@ -1,0 +1,4 @@
+- mkdir express-demo
+- cd express-demo
+- npm init --yes
+- sudo npm i express

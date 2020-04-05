@@ -1,0 +1,3 @@
+- sudo npm i -g nodemon : It installs nodemon globally.
+- nodemon is a tool that helps develop node. js based applications by automatically restarting the node application when file changes in the directory are detected. nodemon does not require any additional changes to your code or method of development.
+- nodemon index.js : to monitor and automatically restart the node application.
